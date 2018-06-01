@@ -2,6 +2,8 @@
 
 This project is a test application that shows how to visualize past events emitted by a contract deployed to the Ethereum Mainnet by using React + Web3. In particular, it connects to the ENS Registrar Contract and visualizes the past BidRevealed events, starting at a specified block number. It uses Infura to connect to the Mainnet.
 
+For simplicity reasons it is not validating the inputs.
+
 The code was styled with [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## How to run:
