@@ -1,0 +1,20 @@
+.app {
+  margin: 10px;
+}
+
+input {
+  margin:15px;
+}
+
+.message {
+  color:blue;
+  margin-top: 20px;
+}
+
+li {
+  margin: 10px;
+}
+
+.key {
+  font-weight: bold;
+}
